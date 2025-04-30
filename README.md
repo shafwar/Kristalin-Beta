@@ -16,9 +16,8 @@ Struktur foldernya dipisahkan dengan subfolder `frontend/` dan `backend/` untuk 
 ### Backend:
 - Node.js
 - Express.js
-- (Tambahkan lainnya jika dipakai: e.g., MongoDB, JWT, dotenv)
 
 ---
 
-## 📁 Struktur Folder
+
 
